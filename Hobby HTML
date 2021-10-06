@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My HOBBIES</title>
+  </head>
+  <body>
+  <h3>HOBBIES!</h3>
+  <ol>
+    <li>VIDEO GAMES (check the main page for all the games I play)</li>
+    <li>saying random stuff</li>
+    <li><a href="https://www.bing.com/images/search?view=detailV2&ccid=pOXUMtDX&id=567D52B67B101C46DD671E9FBF0309CF6CB8878F&thid=OIP.pOXUMtDXeEoFdSvC4i2s8wHaHa&mediaurl=https%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2018%2f11%2fvomit-emoji-gif-9.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a4e5d432d0d7784a05752bc2e22dacf3%3frik%3dj4e4bM8JA7%252bfHg%26pid%3dImgRaw%26r%3d0&exph=626&expw=626&q=Animated+Puking&simid=607987474576901778&FORM=IRPRST&ck=38168832182663A141D1E7B2DB5C6149&selectedIndex=6&ajaxhist=0&ajaxserp=0">Puking</a></li>
+    <li>breathing air</li>
+  </ol>
+  <hr>
+  <form class="" action="mailto:Ethanjko@gmail.com" method="post">
+    <label for="">Your Name</label>
+    <input type="text" name="Your name" value="">
+    <br>
+    <label for="">Your Email</label>
+    <input type="email" name="your email" value="">
+    <br>
+    <label for="">Which Hobby you have in common</label>
+    <input type="text" name="Which hobby" value="">
+    <br>
+    <label for="">If Video Games want to play sometime (Yes/No)(don't checkmark if no)</label>
+    <input type="checkbox" name="Do you play video games" value="">
+    <br>
+    <label for="">If so which game(check main page to find out what games I play)</label>
+    <input type="text" name="Which Games" value="">
+    <br>
+    <label for="">Add message:</label>
+    <br>
+    <textarea name="mesage" rows="5" cols="15"></textarea>
+    <br>
+    <p>Follow up question</p>
+    <label for="">What is your favorite color</label>
+    <input type="color" name="color" value="">
+    <br>
+    <label for="">Date submitted</label>
+    <input type="text" name="month" value="mm">
+    <input type="text" name="day" value="dd">
+    <input type="text" name="year" value="yyyy">
+    <br>
+    <input type="submit" name="submit" value="submit">
+  </form>
+  </body>
+</html>
